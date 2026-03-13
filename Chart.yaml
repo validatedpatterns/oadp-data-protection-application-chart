@@ -1,6 +1,11 @@
+---
 apiVersion: v2
-description: A Helm chart to serve as the Validated Patterns Template
-keywords:
-  - pattern
-name: vp-template
+name: data-protection-application
+description: This application configures OADP/Velero for regional DR
 version: 0.0.1
+keywords:
+  - acm
+  - odf
+  - openshift
+  - regional dr
+  - disaster recovery
